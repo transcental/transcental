@@ -4,7 +4,7 @@
 
 > I joined GitHub **3** years ago.
 
-Since then, I have pushed **3791** commits, opened **214** issues, submitted **174** pull requests, received **46** stars across **147** personal projects and contributed to **39** public repositories.
+Since then, I have pushed **3799** commits, opened **215** issues, submitted **175** pull requests, received **46** stars across **147** personal projects and contributed to **39** public repositories.
 
 <br>
 Hey, I'm transcental, an immersive media student and hacker. I typically use Python, TypeScript or C# for my work.
@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/hackclub/yellow_pages/pull/40#issuecomment-2644332762) in [hackclub/yellow_pages](https://github.com/hackclub/yellow_pages)
-2. 🗣 Commented on [#40](https://github.com/hackclub/yellow_pages/pull/40#issuecomment-2644277519) in [hackclub/yellow_pages](https://github.com/hackclub/yellow_pages)
-3. 🎉 Merged PR [#2](https://github.com/transcental/PostPuppy/pull/2) in [transcental/PostPuppy](https://github.com/transcental/PostPuppy)
-4. 🗣 Commented on [#95](https://github.com/hackclub/hackapet/pull/95#issuecomment-2640911861) in [hackclub/hackapet](https://github.com/hackclub/hackapet)
-5. 💪 Opened PR [#40](https://github.com/hackclub/yellow_pages/pull/40) in [hackclub/yellow_pages](https://github.com/hackclub/yellow_pages)
 <!--END_SECTION:activity-->
 
 #### Stats
