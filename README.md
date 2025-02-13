@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#306](https://github.com/hackclub/toriel/issues/306) in [hackclub/toriel](https://github.com/hackclub/toriel)
+2. 🎉 Merged PR [#1](https://github.com/transcental/FlyPi/pull/1) in [transcental/FlyPi](https://github.com/transcental/FlyPi)
+3. 🎉 Merged PR [#5](https://github.com/transcental/PostPuppy/pull/5) in [transcental/PostPuppy](https://github.com/transcental/PostPuppy)
+4. 🎉 Merged PR [#5](https://github.com/transcental/SlickStats/pull/5) in [transcental/SlickStats](https://github.com/transcental/SlickStats)
+5. 🎉 Merged PR [#19](https://github.com/transcental/valenv/pull/19) in [transcental/valenv](https://github.com/transcental/valenv)
 <!--END_SECTION:activity-->
 
 #### Stats
