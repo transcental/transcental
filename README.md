@@ -14,6 +14,8 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#47](https://github.com/hackclub/YSWS-Catalog/pull/47) in [hackclub/YSWS-Catalog](https://github.com/hackclub/YSWS-Catalog)
+2. 💪 Opened PR [#602](https://github.com/hackclub/hackpad/pull/602) in [hackclub/hackpad](https://github.com/hackclub/hackpad)
 <!--END_SECTION:activity-->
 
 #### Stats
