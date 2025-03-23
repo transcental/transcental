@@ -14,6 +14,9 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/transcental/hackpad/pull/1) in [transcental/hackpad](https://github.com/transcental/hackpad)
+2. 💪 Opened PR [#1](https://github.com/transcental/hackpad/pull/1) in [transcental/hackpad](https://github.com/transcental/hackpad)
+3. 🎉 Merged PR [#1265](https://github.com/hackclub/dinosaurs/pull/1265) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
 
 #### Stats
