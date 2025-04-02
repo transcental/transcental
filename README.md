@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#308](https://github.com/hackclub/toriel/pull/308) in [hackclub/toriel](https://github.com/hackclub/toriel)
-2. 💪 Opened PR [#307](https://github.com/hackclub/toriel/pull/307) in [hackclub/toriel](https://github.com/hackclub/toriel)
-3. 🎉 Merged PR [#1184](https://github.com/hackclub/high-seas/pull/1184) in [hackclub/high-seas](https://github.com/hackclub/high-seas)
-4. 🎉 Merged PR [#1183](https://github.com/hackclub/high-seas/pull/1183) in [hackclub/high-seas](https://github.com/hackclub/high-seas)
-5. 🎉 Merged PR [#1182](https://github.com/hackclub/high-seas/pull/1182) in [hackclub/high-seas](https://github.com/hackclub/high-seas)
 <!--END_SECTION:activity-->
 
 #### Stats
