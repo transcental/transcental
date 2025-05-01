@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1758](https://github.com/hackclub/sprig/issues/1758#issuecomment-2843354682) in [hackclub/sprig](https://github.com/hackclub/sprig)
+2. 💪 Opened PR [#1497](https://github.com/hackclub/site/pull/1497) in [hackclub/site](https://github.com/hackclub/site)
+3. 🗣 Commented on [#1493](https://github.com/hackclub/site/pull/1493#issuecomment-2815901748) in [hackclub/site](https://github.com/hackclub/site)
+4. 💪 Opened PR [#1492](https://github.com/hackclub/site/pull/1492) in [hackclub/site](https://github.com/hackclub/site)
+5. 💪 Opened PR [#1](https://github.com/polypixeldev/dj-orpheus/pull/1) in [polypixeldev/dj-orpheus](https://github.com/polypixeldev/dj-orpheus)
 <!--END_SECTION:activity-->
 
 #### Stats
