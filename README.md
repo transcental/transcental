@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#10361](https://github.com/hackclub/hcb/issues/10361) in [hackclub/hcb](https://github.com/hackclub/hcb)
+2. 🎉 Merged PR [#1](https://github.com/transcental/darwin-rtt-websocket/pull/1) in [transcental/darwin-rtt-websocket](https://github.com/transcental/darwin-rtt-websocket)
+3. 💪 Opened PR [#1](https://github.com/transcental/darwin-rtt-websocket/pull/1) in [transcental/darwin-rtt-websocket](https://github.com/transcental/darwin-rtt-websocket)
+4. 🗣 Commented on [#1758](https://github.com/hackclub/sprig/issues/1758#issuecomment-2843354682) in [hackclub/sprig](https://github.com/hackclub/sprig)
+5. 💪 Opened PR [#1497](https://github.com/hackclub/site/pull/1497) in [hackclub/site](https://github.com/hackclub/site)
 <!--END_SECTION:activity-->
 
 #### Stats
