@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#31](https://github.com/Revolution-Hacks/revolution/pull/31) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
+2. 💪 Opened PR [#31](https://github.com/Revolution-Hacks/revolution/pull/31) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
+3. 🎉 Merged PR [#30](https://github.com/Revolution-Hacks/revolution/pull/30) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
+4. 💪 Opened PR [#30](https://github.com/Revolution-Hacks/revolution/pull/30) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
+5. 🎉 Merged PR [#1288](https://github.com/hackclub/dinosaurs/pull/1288) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
 
 #### Stats
