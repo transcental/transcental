@@ -4,7 +4,7 @@
 
 > I joined GitHub **4** years ago.
 
-Since then, I have pushed **4149** commits, opened **218** issues, submitted **192** pull requests, received **46** stars across **165** personal projects and contributed to **36** public repositories.
+Since then, I have pushed **4149** commits, opened **219** issues, submitted **192** pull requests, received **46** stars across **165** personal projects and contributed to **36** public repositories.
 
 <br>
 Hey, I'm transcental, an immersive media student and hacker. I typically use Python, TypeScript or C# for my work.
@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Revolution-Hacks/dns/pull/1) in [Revolution-Hacks/dns](https://github.com/Revolution-Hacks/dns)
-2. 💪 Opened PR [#1](https://github.com/Revolution-Hacks/dns/pull/1) in [Revolution-Hacks/dns](https://github.com/Revolution-Hacks/dns)
-3. ❗ Opened issue [#10480](https://github.com/hackclub/hcb/issues/10480) in [hackclub/hcb](https://github.com/hackclub/hcb)
-4. 🎉 Merged PR [#31](https://github.com/Revolution-Hacks/revolution/pull/31) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
-5. 💪 Opened PR [#31](https://github.com/Revolution-Hacks/revolution/pull/31) in [Revolution-Hacks/revolution](https://github.com/Revolution-Hacks/revolution)
 <!--END_SECTION:activity-->
 
 #### Stats
