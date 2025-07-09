@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/hackclub/nephthys/pull/33) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. 💪 Opened PR [#33](https://github.com/hackclub/nephthys/pull/33) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. 🎉 Merged PR [#32](https://github.com/hackclub/nephthys/pull/32) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. 💪 Opened PR [#32](https://github.com/hackclub/nephthys/pull/32) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. 🎉 Merged PR [#31](https://github.com/hackclub/nephthys/pull/31) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
 
 #### Stats
