@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#23](https://github.com/transcental/dns/pull/23) in [transcental/dns](https://github.com/transcental/dns)
+2. 🗣 Commented on [#14284](https://github.com/signalapp/Signal-Android/issues/14284#issuecomment-3169014609) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+3. ❗ Opened issue [#14284](https://github.com/signalapp/Signal-Android/issues/14284) in [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android)
+4. 🎉 Merged PR [#41](https://github.com/hackclub/nephthys/pull/41) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. 💪 Opened PR [#41](https://github.com/hackclub/nephthys/pull/41) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
 
 #### Stats
