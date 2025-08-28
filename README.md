@@ -4,7 +4,7 @@
 
 > I joined GitHub **4** years ago.
 
-Since then, I have pushed **4259** commits, opened **232** issues, submitted **228** pull requests, received **43** stars across **169** personal projects and contributed to **35** public repositories.
+Since then, I have pushed **4260** commits, opened **232** issues, submitted **230** pull requests, received **43** stars across **169** personal projects and contributed to **35** public repositories.
 
 <br>
 Hey, I'm transcental, an immersive media student and hacker. I typically use Python, TypeScript or C# for my work.
@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/hackclub/nephthys/pull/43#issuecomment-3174826982) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. 🎉 Merged PR [#42](https://github.com/hackclub/nephthys/pull/42) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-3. 🎉 Merged PR [#45](https://github.com/hackclub/nephthys/pull/45) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-4. 🎉 Merged PR [#44](https://github.com/hackclub/nephthys/pull/44) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-5. 🎉 Merged PR [#23](https://github.com/transcental/dns/pull/23) in [transcental/dns](https://github.com/transcental/dns)
 <!--END_SECTION:activity-->
 
 #### Stats
