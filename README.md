@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2014](https://github.com/hackclub/dns/pull/2014#issuecomment-3263784458) in [hackclub/dns](https://github.com/hackclub/dns)
-2. 💪 Opened PR [#2014](https://github.com/hackclub/dns/pull/2014) in [hackclub/dns](https://github.com/hackclub/dns)
-3. 🎉 Merged PR [#45](https://github.com/hackclub/professor-bloom/pull/45) in [hackclub/professor-bloom](https://github.com/hackclub/professor-bloom)
-4. 🗣 Commented on [#42](https://github.com/hackclub/professor-bloom/issues/42#issuecomment-3249159801) in [hackclub/professor-bloom](https://github.com/hackclub/professor-bloom)
-5. 🔒 Closed issue [#42](https://github.com/hackclub/professor-bloom/issues/42) in [hackclub/professor-bloom](https://github.com/hackclub/professor-bloom)
 <!--END_SECTION:activity-->
 
 #### Stats
