@@ -4,7 +4,7 @@
 
 > I joined GitHub **4** years ago.
 
-Since then, I have pushed **4361** commits, opened **242** issues, submitted **240** pull requests, received **43** stars across **175** personal projects and contributed to **34** public repositories.
+Since then, I have pushed **4361** commits, opened **242** issues, submitted **240** pull requests, received **43** stars across **175** personal projects and contributed to **33** public repositories.
 
 <br>
 Hey, I'm transcental, an immersive media student and hacker. I typically use Python, TypeScript or C# for my work.
@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/hackclub/nephthys/pull/74#issuecomment-3447901755) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. 🗣 Commented on [#3](https://github.com/transcental/honest-impressions/pull/3#issuecomment-3446756884) in [transcental/honest-impressions](https://github.com/transcental/honest-impressions)
-3. ❌ Closed PR [#2](undefined) in [transcental/honest-impressions](https://github.com/transcental/honest-impressions)
-4. 🗣 Commented on [#2](https://github.com/transcental/honest-impressions/pull/2#issuecomment-3446682112) in [transcental/honest-impressions](https://github.com/transcental/honest-impressions)
-5. ❌ Closed PR [#1](undefined) in [transcental/honest-impressions](https://github.com/transcental/honest-impressions)
 <!--END_SECTION:activity-->
 
 #### Stats
