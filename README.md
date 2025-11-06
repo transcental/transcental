@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#4](undefined) in [hackclub/sentry](https://github.com/hackclub/sentry)
+2. ❗ Opened issue [#93](https://github.com/hackclub/nephthys/issues/93) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+3. ❗ Opened issue [#1](https://github.com/prplwtf/bashatime.sh/issues/1) in [prplwtf/bashatime.sh](https://github.com/prplwtf/bashatime.sh)
+4. ❗ Opened issue [#92](https://github.com/hackclub/nephthys/issues/92) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
+5. 💪 Opened PR [#91](undefined) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
 <!--END_SECTION:activity-->
 
 #### Stats
