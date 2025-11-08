@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#315](undefined) in [hackclub/toriel](https://github.com/hackclub/toriel)
+2. 💪 Opened PR [#314](undefined) in [hackclub/toriel](https://github.com/hackclub/toriel)
+3. 🚀 Published release [v2](https://github.com/transcental/SlackTemplate/releases/tag/v2) in [transcental/SlackTemplate](https://github.com/transcental/SlackTemplate)
+4. ❗ Opened issue [#5](https://github.com/hackclub/isabelle/issues/5) in [hackclub/isabelle](https://github.com/hackclub/isabelle)
+5. 💪 Opened PR [#4](undefined) in [hackclub/sentry](https://github.com/hackclub/sentry)
 <!--END_SECTION:activity-->
 
 #### Stats
