@@ -4,7 +4,7 @@
 
 > I joined GitHub **4** years ago.
 
-Since then, I have pushed **4448** commits, opened **254** issues, submitted **250** pull requests, received **44** stars across **176** personal projects and contributed to **36** public repositories.
+Since then, I have pushed **4448** commits, opened **255** issues, submitted **250** pull requests, received **44** stars across **176** personal projects and contributed to **36** public repositories.
 
 <br>
 Hey, I'm transcental, an immersive media student and hacker. I typically use Python, TypeScript or C# for my work.
@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/hackclub/nephthys/pull/118#issuecomment-3557921865) in [hackclub/nephthys](https://github.com/hackclub/nephthys)
-2. 🗣 Commented on [#134](https://github.com/hackclub/flavortown/issues/134#issuecomment-3557882913) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-3. 🔓 Reopened issue [#136](https://github.com/hackclub/flavortown/issues/136) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. 🗣 Commented on [#136](https://github.com/hackclub/flavortown/issues/136#issuecomment-3555510584) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. ❗ Opened issue [#1401](https://github.com/slackapi/bolt-python/issues/1401) in [slackapi/bolt-python](https://github.com/slackapi/bolt-python)
 <!--END_SECTION:activity-->
 
 #### Stats
