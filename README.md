@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1: Are we there yet?](https://github.com/transcental/are-we-there-yet-wearos/releases/tag/v1) in [transcental/are-we-there-yet-wearos](https://github.com/transcental/are-we-there-yet-wearos)
-2. 🗣 Commented on [#134](https://github.com/hackclub/flavortown/issues/134#issuecomment-3571001369) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-3.  Labeled issue [#152](https://github.com/hackclub/flavortown/issues/152) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4.  Labeled issue [#152](https://github.com/hackclub/flavortown/issues/152) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5.  Labeled issue [#152](https://github.com/hackclub/flavortown/issues/152) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
 
 #### Stats
