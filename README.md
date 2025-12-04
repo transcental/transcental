@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#203](undefined) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+2. 💪 Opened PR [#203](undefined) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+3. ❌ Merged PR [#195](undefined) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+4. 💪 Opened PR [#195](undefined) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
+5. ❌ Merged PR [#182](undefined) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
 
 #### Stats
