@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/transcental/slack-flights-canvas/pull/2) in [transcental/slack-flights-canvas](https://github.com/transcental/slack-flights-canvas)
-2. 🗣 Commented on [#1](https://github.com/transcental/slack-flights-canvas/pull/1#issuecomment-3706701080) in [transcental/slack-flights-canvas](https://github.com/transcental/slack-flights-canvas)
-3. 🎉 Merged PR [#2333](https://github.com/hackclub/dns/pull/2333) in [hackclub/dns](https://github.com/hackclub/dns)
-4. 💪 Opened PR [#2333](https://github.com/hackclub/dns/pull/2333) in [hackclub/dns](https://github.com/hackclub/dns)
-5. ℹ️ Assigned issue [#739](https://github.com/hackclub/flavortown/issues/739) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
 
 #### Stats
