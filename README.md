@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#843](https://github.com/kawaiiDango/pano-scrobbler/issues/843#issuecomment-3825008321) in [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler)
-2. ℹ️ Assigned issue [#1192](https://github.com/hackclub/flavortown/issues/1192) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-3. ❗ Opened issue [#1192](https://github.com/hackclub/flavortown/issues/1192) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. ℹ️ Assigned issue [#1191](https://github.com/hackclub/flavortown/issues/1191) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. ℹ️ Labeled issue [#1191](https://github.com/hackclub/flavortown/issues/1191) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
 
 #### Stats
