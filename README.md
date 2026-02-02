@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1223](https://github.com/hackclub/flavortown/issues/1223) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-2. ❗ Opened issue [#1223](https://github.com/hackclub/flavortown/issues/1223) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-3. ℹ️ Labeled issue [#1222](https://github.com/hackclub/flavortown/issues/1222) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. ❗ Opened issue [#1222](https://github.com/hackclub/flavortown/issues/1222) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. ℹ️ Labeled issue [#1221](https://github.com/hackclub/flavortown/issues/1221) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
 
 #### Stats
