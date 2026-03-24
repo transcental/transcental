@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2673](https://github.com/hackclub/dns/pull/2673) in [hackclub/dns](https://github.com/hackclub/dns)
+2. 💪 Opened PR [#2673](https://github.com/hackclub/dns/pull/2673) in [hackclub/dns](https://github.com/hackclub/dns)
+3. 🎉 Merged PR [#2672](https://github.com/hackclub/dns/pull/2672) in [hackclub/dns](https://github.com/hackclub/dns)
+4. 🗣 Commented on [#2672](https://github.com/hackclub/dns/pull/2672#issuecomment-4114764533) in [hackclub/dns](https://github.com/hackclub/dns)
+5. 💪 Opened PR [#2672](https://github.com/hackclub/dns/pull/2672) in [hackclub/dns](https://github.com/hackclub/dns)
 <!--END_SECTION:activity-->
 
 #### Stats
