@@ -4,7 +4,7 @@
 
 > I joined GitHub **4** years ago.
 
-Since then, I have pushed **4976** commits, opened **327** issues, submitted **335** pull requests, received **44** stars across **189** personal projects and contributed to **37** public repositories.
+Since then, I have pushed **4977** commits, opened **327** issues, submitted **335** pull requests, received **44** stars across **189** personal projects and contributed to **37** public repositories.
 
 <br>
 Hey, I'm transcental, an immersive media student and hacker. I typically use Python, TypeScript or C# for my work.
@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/hackclub/stardance/issues/12#issuecomment-4276833909) in [hackclub/stardance](https://github.com/hackclub/stardance)
-2. 🔒 Closed issue [#2139](https://github.com/hackclub/flavortown/issues/2139) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-3. ℹ️ Labeled issue [#2139](https://github.com/hackclub/flavortown/issues/2139) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-4. ❗ Opened issue [#2139](https://github.com/hackclub/flavortown/issues/2139) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
-5. ℹ️ Assigned issue [#2139](https://github.com/hackclub/flavortown/issues/2139) in [hackclub/flavortown](https://github.com/hackclub/flavortown)
 <!--END_SECTION:activity-->
 
 #### Stats
