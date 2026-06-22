@@ -14,6 +14,11 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1387](https://github.com/hackclub/dinosaurs/pull/1387#issuecomment-4762200575) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+2. ℹ️ Unlabeled PR [#1382](https://github.com/hackclub/dinosaurs/pull/1382) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+3. 🗣 Commented on [#3000](https://github.com/hackclub/dns/pull/3000#issuecomment-4737110779) in [hackclub/dns](https://github.com/hackclub/dns)
+4. ❌ Closed PR [#3000](https://github.com/hackclub/dns/pull/3000) in [hackclub/dns](https://github.com/hackclub/dns)
+5. 🎉 Merged PR [#600](https://github.com/hackclub/stardance/pull/600) in [hackclub/stardance](https://github.com/hackclub/stardance)
 <!--END_SECTION:activity-->
 
 #### Stats
