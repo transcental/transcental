@@ -14,11 +14,6 @@ Hey, I'm transcental, an immersive media student and hacker. I typically use Pyt
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/transcental/slack-extra/pull/5) in [transcental/slack-extra](https://github.com/transcental/slack-extra)
-2. 🎉 Merged PR [#6](https://github.com/transcental/slack-extra/pull/6) in [transcental/slack-extra](https://github.com/transcental/slack-extra)
-3. 💪 Opened PR [#6](https://github.com/transcental/slack-extra/pull/6) in [transcental/slack-extra](https://github.com/transcental/slack-extra)
-4. 🗣 Commented on [#763](https://github.com/hackclub/stardance/pull/763#issuecomment-4895737708) in [hackclub/stardance](https://github.com/hackclub/stardance)
-5. 💪 Opened PR [#762](https://github.com/hackclub/stardance/pull/762) in [hackclub/stardance](https://github.com/hackclub/stardance)
 <!--END_SECTION:activity-->
 
 #### Stats
