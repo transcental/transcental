@@ -5,9 +5,4 @@ I do stuff on the internet! Most of the stuff on my account is an archive for my
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1622](https://github.com/hackclub/stardance/pull/1622) in [hackclub/stardance](https://github.com/hackclub/stardance)
-2. 💪 Opened PR [#1622](https://github.com/hackclub/stardance/pull/1622) in [hackclub/stardance](https://github.com/hackclub/stardance)
-3. 💪 Opened PR [#1618](https://github.com/hackclub/stardance/pull/1618) in [hackclub/stardance](https://github.com/hackclub/stardance)
-4. 🎉 Merged PR [#1614](https://github.com/hackclub/stardance/pull/1614) in [hackclub/stardance](https://github.com/hackclub/stardance)
-5. 💪 Opened PR [#1614](https://github.com/hackclub/stardance/pull/1614) in [hackclub/stardance](https://github.com/hackclub/stardance)
 <!--END_SECTION:activity-->
